@@ -1,0 +1,3 @@
+FilesToIgnore=.exe;.doc;.ppt;.xls;.docx;.pptx;.xlsx;.wmv;.zip;.rar;.txt
+SourceFolder=C:\Documents and Settings\administrator\My Documents
+BackupFolder=C:\Documents and Settings\administrator\Desktop\Share

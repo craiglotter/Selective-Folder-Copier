@@ -1,0 +1,10 @@
+First, enter the file types to ignore, delimited by the ';' character. Each file type should be specified as such: .exe or .doc
+
+Once your file types to ignore has been set up, click on the Start Copy button to launch the copy operation. You will be asked to select a source and a target folder.
+
+Once the copy operation is running, you can cancel it by clicking on the Cancel button.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 29/10/2008 --

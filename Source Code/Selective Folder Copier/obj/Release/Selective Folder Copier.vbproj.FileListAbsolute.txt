@@ -1,0 +1,39 @@
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\ResolveAssemblyReference.cache
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.AboutBox1.resources
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Display_Message.resources
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.HelpBox1.resources
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Main_Screen.resources
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Resources.resources
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.vbproj.GenerateResource.Cache
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.exe
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.pdb
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.xml
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.exe
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.xml
+H:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.pdb
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.exe
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.xml
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.pdb
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.exe
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.pdb
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.xml
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\ResolveAssemblyReference.cache
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.AboutBox1.resources
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Display_Message.resources
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.HelpBox1.resources
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Main_Screen.resources
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Resources.resources
+Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.vbproj.GenerateResource.Cache
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.xml
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.pdb
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.exe
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.pdb
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\bin\Release\Selective Folder Copier.xml
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\ResolveAssemblyReference.cache
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.AboutBox1.resources
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Display_Message.resources
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.HelpBox1.resources
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Main_Screen.resources
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective_Folder_Copier.Resources.resources
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.vbproj.GenerateResource.Cache
+C:\Work Projects\Completed Projects\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\obj\Release\Selective Folder Copier.exe
